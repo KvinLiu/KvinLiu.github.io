@@ -1,0 +1,15 @@
+#+BEGIN_COMMENT
+.. title: Learn Emacs
+.. slug: Learn_Emacs
+.. date: 2018-09-17 16:04:16 UTC-04:00
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
+
+* Why I choose Emacs as my editor?
+I think emacs is cool editor but has a steep learning curve, and I consider myself not
+a genius, and I have not enough time to try out the new editor, so learning eamcs good
+can help me handle those tasks so why not?
