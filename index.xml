@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
+    <link>http://kvinliu.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Oct 2018 15:29:28 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://kvinliu.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Page Title</title>
-      <link>http://example.org/pages/page-title/</link>
+      <link>http://kvinliu.github.io/pages/page-title/</link>
       <pubDate>Mon, 15 Oct 2018 15:29:28 +0800</pubDate>
       
-      <guid>http://example.org/pages/page-title/</guid>
+      <guid>http://kvinliu.github.io/pages/page-title/</guid>
       <description>Page content this is a new one I want to write some article and do some thing right
 def Hello(): print(&amp;quot;hello World&amp;quot;) Hello()  </description>
     </item>
     
     <item>
       <title>Another Page</title>
-      <link>http://example.org/pages/page-title-two/</link>
+      <link>http://kvinliu.github.io/pages/page-title-two/</link>
       <pubDate>Mon, 15 Oct 2018 14:37:31 +0800</pubDate>
       
-      <guid>http://example.org/pages/page-title-two/</guid>
+      <guid>http://kvinliu.github.io/pages/page-title-two/</guid>
       <description>Page Number t</description>
     </item>
     
     <item>
       <title>The first blog</title>
-      <link>http://example.org/posts/the-first-blog/</link>
+      <link>http://kvinliu.github.io/posts/the-first-blog/</link>
       <pubDate>Mon, 15 Oct 2018 12:49:00 +0800</pubDate>
       
-      <guid>http://example.org/posts/the-first-blog/</guid>
+      <guid>http://kvinliu.github.io/posts/the-first-blog/</guid>
       <description>I think this is the first one ok?</description>
     </item>
     
     <item>
       <title>To see what have changed</title>
-      <link>http://example.org/posts/to-see-what-have-changed/</link>
+      <link>http://kvinliu.github.io/posts/to-see-what-have-changed/</link>
       <pubDate>Mon, 15 Oct 2018 11:33:00 +0800</pubDate>
       
-      <guid>http://example.org/posts/to-see-what-have-changed/</guid>
+      <guid>http://kvinliu.github.io/posts/to-see-what-have-changed/</guid>
       <description>This about to see what have changed, this is done</description>
     </item>
     
     <item>
       <title>another post</title>
-      <link>http://example.org/posts/another-post/</link>
+      <link>http://kvinliu.github.io/posts/another-post/</link>
       <pubDate>Mon, 15 Oct 2018 11:26:00 +0800</pubDate>
       
-      <guid>http://example.org/posts/another-post/</guid>
+      <guid>http://kvinliu.github.io/posts/another-post/</guid>
       <description>Try this again</description>
     </item>
     
     <item>
       <title>Draft Post Title</title>
-      <link>http://example.org/post/draft-post-title/</link>
+      <link>http://kvinliu.github.io/post/draft-post-title/</link>
       <pubDate>Mon, 15 Oct 2018 10:55:00 +0800</pubDate>
       
-      <guid>http://example.org/post/draft-post-title/</guid>
+      <guid>http://kvinliu.github.io/post/draft-post-title/</guid>
       <description>This article will be exported but will be marked draft = true in the front matter.</description>
     </item>
     
     <item>
       <title>Post Title</title>
-      <link>http://example.org/post/post-title-in-slug-form/</link>
+      <link>http://kvinliu.github.io/post/post-title-in-slug-form/</link>
       <pubDate>Tue, 19 Dec 2017 17:00:00 +0800</pubDate>
       
-      <guid>http://example.org/post/post-title-in-slug-form/</guid>
+      <guid>http://kvinliu.github.io/post/post-title-in-slug-form/</guid>
       <description>Content
 More Content
 echo &amp;#39;Some source code content&amp;#39; echo &amp;#39;This line will be highlighted&amp;#39; echo &amp;#34;This one won&amp;#39;t&amp;#34; Post Sub-Heading This is another section within the post.</description>

@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
+    <link>http://kvinliu.github.io/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Oct 2018 12:49:00 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://kvinliu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The first blog</title>
-      <link>http://example.org/posts/the-first-blog/</link>
+      <link>http://kvinliu.github.io/posts/the-first-blog/</link>
       <pubDate>Mon, 15 Oct 2018 12:49:00 +0800</pubDate>
       
-      <guid>http://example.org/posts/the-first-blog/</guid>
+      <guid>http://kvinliu.github.io/posts/the-first-blog/</guid>
       <description>I think this is the first one ok?</description>
     </item>
     
     <item>
       <title>To see what have changed</title>
-      <link>http://example.org/posts/to-see-what-have-changed/</link>
+      <link>http://kvinliu.github.io/posts/to-see-what-have-changed/</link>
       <pubDate>Mon, 15 Oct 2018 11:33:00 +0800</pubDate>
       
-      <guid>http://example.org/posts/to-see-what-have-changed/</guid>
+      <guid>http://kvinliu.github.io/posts/to-see-what-have-changed/</guid>
       <description>This about to see what have changed, this is done</description>
     </item>
     
     <item>
       <title>another post</title>
-      <link>http://example.org/posts/another-post/</link>
+      <link>http://kvinliu.github.io/posts/another-post/</link>
       <pubDate>Mon, 15 Oct 2018 11:26:00 +0800</pubDate>
       
-      <guid>http://example.org/posts/another-post/</guid>
+      <guid>http://kvinliu.github.io/posts/another-post/</guid>
       <description>Try this again</description>
     </item>
     
