@@ -3,90 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://kvinliu.github.io/pages/page-title/</loc>
-    <lastmod>2018-10-15T15:29:28+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kvinliu.github.io/pages/page-title-two/</loc>
-    <lastmod>2018-10-15T14:37:31+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kvinliu.github.io/posts/the-first-blog/</loc>
-    <lastmod>2018-10-15T14:37:31+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kvinliu.github.io/posts/to-see-what-have-changed/</loc>
-    <lastmod>2018-10-15T14:37:32+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kvinliu.github.io/posts/another-post/</loc>
-    <lastmod>2018-10-15T14:37:32+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kvinliu.github.io/post/draft-post-title/</loc>
-    <lastmod>2018-10-15T14:37:33+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kvinliu.github.io/post/post-title-in-slug-form/</loc>
-    <lastmod>2018-10-15T14:37:32+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://kvinliu.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://kvinliu.github.io/</loc>
-    <lastmod>2018-10-15T15:29:28+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kvinliu.github.io/pages/</loc>
-    <lastmod>2018-10-15T15:29:28+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kvinliu.github.io/tags/post/</loc>
-    <lastmod>2018-10-15T14:37:32+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kvinliu.github.io/posts/</loc>
-    <lastmod>2018-10-15T14:37:31+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kvinliu.github.io/post/</loc>
-    <lastmod>2018-10-15T14:37:33+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://kvinliu.github.io/tags/</loc>
-    <lastmod>2018-10-15T14:37:32+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kvinliu.github.io/tags/tags/</loc>
-    <lastmod>2018-10-15T14:37:32+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kvinliu.github.io/categories/topic/</loc>
-    <lastmod>2018-10-15T14:37:33+08:00</lastmod>
     <priority>0</priority>
   </url>
   
