@@ -6,7 +6,7 @@
     <description>Recent content in Pages on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Oct 2018 15:29:28 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 15 Oct 2018 16:51:01 +0800</lastBuildDate>
     
 	<atom:link href="http://kvinliu.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Page Title</title>
       <link>http://kvinliu.github.io/pages/page-title/</link>
-      <pubDate>Mon, 15 Oct 2018 15:29:28 +0800</pubDate>
+      <pubDate>Mon, 15 Oct 2018 16:51:01 +0800</pubDate>
       
       <guid>http://kvinliu.github.io/pages/page-title/</guid>
       <description>Page content this is a new one I want to write some article and do some thing right
@@ -24,10 +24,10 @@ def Hello(): print(&amp;quot;hello World&amp;quot;) Hello()  </description>
     <item>
       <title>Another Page</title>
       <link>http://kvinliu.github.io/pages/page-title-two/</link>
-      <pubDate>Mon, 15 Oct 2018 14:37:31 +0800</pubDate>
+      <pubDate>Mon, 15 Oct 2018 16:51:01 +0800</pubDate>
       
       <guid>http://kvinliu.github.io/pages/page-title-two/</guid>
-      <description>Page Number t</description>
+      <description></description>
     </item>
     
   </channel>
